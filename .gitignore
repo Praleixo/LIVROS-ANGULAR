@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+# production
+dist/
+# misc
+/tmp
+/.angular
+/.idea
+/.vscode
+.DS_Store
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
